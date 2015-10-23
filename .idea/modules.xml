@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/axis2.iml" filepath="$PROJECT_DIR$/axis2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da-dao/da-dao.iml" filepath="$PROJECT_DIR$/da-dao/da-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da-entities/da-entities.iml" filepath="$PROJECT_DIR$/da-entities/da-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da-service/da-service.iml" filepath="$PROJECT_DIR$/da-service/da-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/da-web/da-web.iml" filepath="$PROJECT_DIR$/da-web/da-web.iml" />
+    </modules>
+  </component>
+</project>

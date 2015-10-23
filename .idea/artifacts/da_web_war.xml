@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="da-web:war">
+    <output-path>$PROJECT_DIR$/da-web/target</output-path>
+    <root id="archive" name="da-web.war">
+      <element id="artifact" artifact-name="da-web:war exploded" />
+    </root>
+  </artifact>
+</component>
